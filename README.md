@@ -1,0 +1,2 @@
+# dockerbase-bazel-opencv
+
